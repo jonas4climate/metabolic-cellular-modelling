@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+tqdm
+matplotlib
+numba
+ipykernel
+ipywidgets
+jupyter
